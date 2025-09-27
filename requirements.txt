@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+pytesseract
+pillow
+opencv-python
+pytest
+groq
+python-dotenv
